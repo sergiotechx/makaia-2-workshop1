@@ -1,4 +1,4 @@
-import "../styles/styles.css";
+import "../styles/styles.scss";
 import pokedexIcon from "../images/pokedex-icon.svg";
 import fireIcon from "../images/fire-icon.svg";
 import Charizard from "../images/Charizard.svg";
